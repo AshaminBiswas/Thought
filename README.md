@@ -19,4 +19,4 @@
   <li>for access cookie and update cookie from server to user browser.</li>
 </ul>
 
-<p>Also learn about utils. How to wwrite custo code for repetative task.</p>
+<p>Also learn about utils. How to write custom code for repetative task.</p>
