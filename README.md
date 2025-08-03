@@ -20,3 +20,13 @@
 </ul>
 
 <p>Also learn about utils. How to write custom code for repetative task.</p>
+
+<h1>Models and Schemas</h1>
+<ul>
+  <li>Create User model and Video model</li>
+  <li>Sync the models in between for sharing information</li>
+  <li>using bcrypt for hashing password</li>
+  <li>generating ACCESS TOKEN AND REFRESH TOKEN using JWT</li>
+  <li>Create Custom middleware for for perform database aggregation </li>
+  <li>Add event before saveing password</li>
+</ul>
