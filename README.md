@@ -30,3 +30,8 @@
   <li>Create Custom middleware for for perform database aggregation </li>
   <li>Add event before saveing password</li>
 </ul>
+
+<p>install multer middleware for file handelling uploading and use it also. </p>
+<p>Configure Cloudinary for for uploading uploads files</p>
+<h3>Now Production Grade Project Setup</h3>
+<h4>Learning from Chai code by @hitesh</h4>
